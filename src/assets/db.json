@@ -1,0 +1,21 @@
+{
+    "contact": [
+            {"id":1,"firstname": "bramhendra", "lastname": "mangalore"},
+            {"id":2,"firstname": "staya", "lastname": "narayana"},
+            {"id":3,"firstname": "vishnu", "lastname": "madhav"},
+            {"id":4,"firstname": "prasad", "lastname": "chintala"},
+            {"id":5,"firstname": "narasimha", "lastname": "reddy"},
+            {"id":6,"firstname": "david", "lastname": "antoni"},
+            {"id":7,"firstname": "akbar", "lastname": "siddiq"},
+            {"id":8,"firstname": "sukumar", "lastname": "akkisetty"},
+            {"id":9,"firstname": "indu", "lastname": "valmiki"},
+            {"id":10,"firstname": "mani", "lastname": "kanta"}
+            ],
+    "comments": [
+                {"id":2,"body": "jobs"}
+                ],
+    "profile": [
+                {"body": "profilepic"}
+                ]
+    
+}

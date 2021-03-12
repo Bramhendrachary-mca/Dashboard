@@ -1,0 +1,20 @@
+.col-sm-2{
+    border: 1px solid #c4c4c4;
+}
+
+.col-sm-12{
+    padding: 10px;
+}
+.col-sm-12:hover{
+    background-color:#cccccc;
+}
+a{
+    text-decoration: none;
+}
+body{
+overflow: hidden;
+}
+.Brand{
+    margin-right: 35px;
+}
+

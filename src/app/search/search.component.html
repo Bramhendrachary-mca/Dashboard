@@ -1,0 +1,29 @@
+<p>Data is coming from http://localhost:3000/contact </p>
+
+
+<div class="form-group row"></div>
+<div class="form-group row">
+    <label for="search" class="col-sm-2 col-form-lable" style="text-align: right;">Search</label>
+    <div class="col-sm-6">
+        <input type="text" class="form-control" id="search" />
+    </div>
+</div>
+
+
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#ID</th>
+        <th scope="col">First Name</th>
+        <th scope="col">Last Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let contact of contactList ">
+        <td>{{contact.id}}</td>
+        <td>{{contact.firstname}}</td>
+        <td>{{contact.lastname}}</td>
+      </tr>            
+    </tbody>
+  </table>
+
